@@ -19,10 +19,10 @@ To see the fundamental background of the project visit the [Wiki](https://github
 
 The console will perform the following tasks:
 
-* create a new object
-* retrive an object from a file
-* do operations on objects
-* destroy an object
+* create a new object.
+* retrive an object from a file.
+* do operations on objects.
+* destroy an object.
 
 ### Storage
 
